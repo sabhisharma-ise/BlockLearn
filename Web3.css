@@ -1,3 +1,6 @@
+@import url('https://fonts.googleapis.com/css2?family=Oswald&display=swap');
+    @import url('https://fonts.googleapis.com/css2?family=Teko&display=swap');
+
 body{
     background: url(darkwallpaper.jpg)
     no-repeat center center fixed; 
@@ -10,12 +13,13 @@ body{
 h1 {
     color: antiquewhite;
     font-size: 70px;
+    font-family: 'Teko', sans-serif;
 }
 
 h2 {
     color: antiquewhite;
     font-size: 40px;
-    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-family: 'Teko', sans-serif;
 }
 
 ul{
@@ -25,6 +29,7 @@ li a{
     color: rgb(232, 178, 210);
     text-decoration: none;
     font-size: 30px;
+    font-family: 'Oswald', sans-serif;
 }
 
 .container {
