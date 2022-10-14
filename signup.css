@@ -77,15 +77,6 @@ form .txt_field {
   width: 100%;
 }
 
-.pass {
-  margin: -5px 0 20px 5px;
-  color: #a6a6a6;
-  cursor: pointer;
-}
-
-.pass:hover {
-  text-decoration: underline;
-}
 
 input[type="submit"] {
   width: 100%;
@@ -117,9 +108,6 @@ input[type="submit"]:hover {
   text-decoration: none;
 }
 
-.signup_link a:hover {
-  text-decoration: underline;
-}
 .bn30 {
   border: 5em;
   cursor: pointer;

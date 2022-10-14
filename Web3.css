@@ -1,0 +1,32 @@
+body{
+    background: url(darkwallpaper.jpg)
+    no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+h1 {
+    color: antiquewhite;
+    font-size: 70px;
+}
+
+h2 {
+    color: antiquewhite;
+    font-size: 40px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+
+ul{
+    list-style-type: none;
+}
+li a{
+    color: rgb(232, 178, 210);
+    text-decoration: none;
+    font-size: 30px;
+}
+
+.container {
+    text-align: center;
+}
