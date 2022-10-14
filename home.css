@@ -12,6 +12,7 @@ body{
   background-size: cover;
 }
 
+/*Navigation Bar*/
 nav ul{
 	display: flex;
 	align-items: center;
@@ -30,10 +31,7 @@ ul{
 	padding: 0px;
 	margin: 0px;
 }
-a{
-	text-decoration: none;
-	color: antiquewhite;
-}
+
 .container{
 	min-height: 60vh;
 	font-family: 'Josefin Sans', sans-serif;
@@ -60,6 +58,13 @@ iframe{
 	margin-right: 57px;
 	margin-top: 30px;
 }
+
+/*Navigation Bar Button-CSS*/
+a	{
+	text-decoration: none;
+	color: antiquewhite;
+}
+
 .bn30 {
 	border: 5em;
 	cursor: pointer;
@@ -75,9 +80,9 @@ iframe{
 	transition: box-shadow 0.25s;
 	color: white;
 	cursor: pointer;
-  }
+}
   
-  .bn30 .text {
+.bn30 .text {
 	background-clip: text;
 	-webkit-background-clip: text;
 	-webkit-text-fill-color: transparent;
@@ -106,6 +111,8 @@ iframe{
   .bn30:hover .text {
 	background-image: linear-gradient(-45deg, #4568dc, #b06ab3);
   }
+
+  /*Content*/
   .content{
   	/* background-color: black; */
 	text-align: left;

@@ -75,6 +75,7 @@ a{
 	background-image: linear-gradient(-45deg, #4568dc, #b06ab3);
   }
 
+  /* Content */
   .container {
 	margin: 0;
   	position: absolute;
@@ -86,15 +87,15 @@ a{
  }
  .container{
 	font-size: 100px;
-	/* background-image: url(123.jpg); */
   background-size: cover;
 	color: antiquewhite;
 	max-width: 1400px;
 	max-height: 1000px;
 	margin-top: 130px;
 	margin-left: 100px;
-
 }
+
+/* Background inside the Text through this! */
 h1{
 	/* font-family: 'Bebas Neue', cursive; */
 	font-size: 150px;
