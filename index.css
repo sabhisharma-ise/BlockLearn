@@ -69,3 +69,38 @@ a{
   .bn30:hover .text {
 	background-image: linear-gradient(-45deg, #4568dc, #b06ab3);
   }
+
+  .container {
+	margin: 0;
+  	position: absolute;
+  	top: 50%;
+  	left: 50%;
+  	-ms-transform: translate(-50%, -50%);
+  	transform: translate(-50%, -50%);
+	
+ }
+ .container{
+	font-size: 100px;
+	/* background-image: url(123.jpg); */
+  background-size: cover;
+	color: antiquewhite;
+	max-width: 1400px;
+	max-height: 10000px;
+	padding-top: 80%;
+
+}
+h1{
+	/* font-family: 'Bebas Neue', cursive; */
+	font-size: 150px;
+	background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVUyYlbVzmkbaZPE7HkdbWXI7TrACFxl9zr97X86y_aotxBkoieBuQGH02cNmP8cpwK9k&usqp=CAU);
+	background-clip: text;
+	-webkit-background-clip: text;
+	color: transparent;
+}
+
+hr {
+	border: 0;
+        height: 3px;
+        background: #be1c5d;
+        background-image: linear-gradient(to right, rgb(196, 190, 190), #6d2373, #ccc);
+  }
