@@ -1,6 +1,7 @@
 # BlockLearn (ISE Internship Project)
 Steps needed to follow for viewing the web-pages:-
-1. Open the landing.html file in a text editor and open it in a browser (preferably Google Chrome).
+
+1. Clone the code files to your pc and open the landing.html file in a browser (preferably Google Chrome).
 2. Enjoy the metaverse feeling and after that you need to click on the bottom-centered button which says "Let's Go!!".
 3. Now you are at the Home Page where you can see a video which introduces you to what actually "Blockchain" means and how it is practically useful in the real-world.
 4. Have a look-around, explore what's written at the bottom. See what actually Web3, Blockchain and Metaverse means!
