@@ -1,6 +1,6 @@
 # BlockLearn (ISE Internship Project)
 
-Glimps of the of the website
+Glimps of the website:
 
 
 ![index](https://user-images.githubusercontent.com/100849696/196677503-07e3b896-d94c-4b3a-b775-c92131bb91ff.png)
